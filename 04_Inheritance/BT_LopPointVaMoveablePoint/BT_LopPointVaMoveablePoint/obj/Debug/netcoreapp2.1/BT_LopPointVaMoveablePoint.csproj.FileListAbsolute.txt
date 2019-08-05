@@ -1,0 +1,11 @@
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\bin\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.deps.json
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\bin\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.runtimeconfig.json
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\bin\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.runtimeconfig.dev.json
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\bin\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.dll
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\bin\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.pdb
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.csproj.CoreCompileInputs.cache
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.AssemblyInfoInputs.cache
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.AssemblyInfo.cs
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.dll
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.pdb
+D:\C-_Module2\04_Inheritance\BT_LopPointVaMoveablePoint\BT_LopPointVaMoveablePoint\obj\Debug\netcoreapp2.1\BT_LopPointVaMoveablePoint.csprojAssemblyReference.cache

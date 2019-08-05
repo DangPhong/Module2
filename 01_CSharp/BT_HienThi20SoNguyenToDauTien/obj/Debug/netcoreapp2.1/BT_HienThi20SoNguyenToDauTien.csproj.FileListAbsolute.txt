@@ -1,0 +1,10 @@
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\bin\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.deps.json
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\bin\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.runtimeconfig.json
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\bin\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.runtimeconfig.dev.json
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\bin\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.dll
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\bin\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.pdb
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\obj\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.csproj.CoreCompileInputs.cache
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\obj\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.AssemblyInfoInputs.cache
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\obj\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.AssemblyInfo.cs
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\obj\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.dll
+D:\C-_Module2\01_CSharp\BT_HienThi20SoNguyenToDauTien\obj\Debug\netcoreapp2.1\BT_HienThi20SoNguyenToDauTien.pdb

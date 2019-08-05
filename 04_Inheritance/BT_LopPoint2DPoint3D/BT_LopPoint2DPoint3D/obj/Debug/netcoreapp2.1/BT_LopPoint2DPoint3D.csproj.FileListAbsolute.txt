@@ -1,0 +1,11 @@
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\bin\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.deps.json
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\bin\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.runtimeconfig.json
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\bin\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.runtimeconfig.dev.json
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\bin\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.dll
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\bin\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.pdb
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.csprojAssemblyReference.cache
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.csproj.CoreCompileInputs.cache
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.AssemblyInfoInputs.cache
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.AssemblyInfo.cs
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.dll
+D:\C-_Module2\04_Inheritance\BT_LopPoint2DPoint3D\BT_LopPoint2DPoint3D\obj\Debug\netcoreapp2.1\BT_LopPoint2DPoint3D.pdb

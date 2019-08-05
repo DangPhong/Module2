@@ -1,0 +1,10 @@
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\bin\Debug\netcoreapp2.1\TH_KTNamNhuan.deps.json
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\bin\Debug\netcoreapp2.1\TH_KTNamNhuan.runtimeconfig.json
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\bin\Debug\netcoreapp2.1\TH_KTNamNhuan.runtimeconfig.dev.json
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\bin\Debug\netcoreapp2.1\TH_KTNamNhuan.dll
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\bin\Debug\netcoreapp2.1\TH_KTNamNhuan.pdb
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\obj\Debug\netcoreapp2.1\TH_KTNamNhuan.csproj.CoreCompileInputs.cache
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\obj\Debug\netcoreapp2.1\TH_KTNamNhuan.AssemblyInfoInputs.cache
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\obj\Debug\netcoreapp2.1\TH_KTNamNhuan.AssemblyInfo.cs
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\obj\Debug\netcoreapp2.1\TH_KTNamNhuan.dll
+D:\C-_Module2\01_CSharp\TH_KTNamNhuan\obj\Debug\netcoreapp2.1\TH_KTNamNhuan.pdb

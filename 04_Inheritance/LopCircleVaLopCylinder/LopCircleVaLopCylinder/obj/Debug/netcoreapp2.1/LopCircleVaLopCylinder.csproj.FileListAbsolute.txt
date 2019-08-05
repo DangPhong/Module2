@@ -1,0 +1,10 @@
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\bin\Debug\netcoreapp2.1\LopCircleVaLopCylinder.deps.json
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\bin\Debug\netcoreapp2.1\LopCircleVaLopCylinder.runtimeconfig.json
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\bin\Debug\netcoreapp2.1\LopCircleVaLopCylinder.runtimeconfig.dev.json
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\bin\Debug\netcoreapp2.1\LopCircleVaLopCylinder.dll
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\bin\Debug\netcoreapp2.1\LopCircleVaLopCylinder.pdb
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\obj\Debug\netcoreapp2.1\LopCircleVaLopCylinder.csproj.CoreCompileInputs.cache
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\obj\Debug\netcoreapp2.1\LopCircleVaLopCylinder.AssemblyInfoInputs.cache
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\obj\Debug\netcoreapp2.1\LopCircleVaLopCylinder.AssemblyInfo.cs
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\obj\Debug\netcoreapp2.1\LopCircleVaLopCylinder.dll
+D:\C-_Module2\04_Inheritance\LopCircleVaLopCylinder\LopCircleVaLopCylinder\obj\Debug\netcoreapp2.1\LopCircleVaLopCylinder.pdb

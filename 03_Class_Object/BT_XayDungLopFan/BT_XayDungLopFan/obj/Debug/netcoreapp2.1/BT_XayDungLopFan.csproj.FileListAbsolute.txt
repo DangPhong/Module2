@@ -1,0 +1,11 @@
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\bin\Debug\netcoreapp2.1\BT_XayDungLopFan.deps.json
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\bin\Debug\netcoreapp2.1\BT_XayDungLopFan.runtimeconfig.json
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\bin\Debug\netcoreapp2.1\BT_XayDungLopFan.runtimeconfig.dev.json
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\bin\Debug\netcoreapp2.1\BT_XayDungLopFan.dll
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\bin\Debug\netcoreapp2.1\BT_XayDungLopFan.pdb
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.csprojAssemblyReference.cache
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.csproj.CoreCompileInputs.cache
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.AssemblyInfoInputs.cache
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.AssemblyInfo.cs
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.dll
+D:\C-_Module2\03_Class_Object\BT_XayDungLopFan\BT_XayDungLopFan\obj\Debug\netcoreapp2.1\BT_XayDungLopFan.pdb

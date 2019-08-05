@@ -1,0 +1,11 @@
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\bin\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.deps.json
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\bin\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.runtimeconfig.json
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\bin\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.runtimeconfig.dev.json
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\bin\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.dll
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\bin\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.pdb
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.csproj.CoreCompileInputs.cache
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.AssemblyInfoInputs.cache
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.AssemblyInfo.cs
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.dll
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.pdb
+D:\C-_Module2\01_CSharp\BT_HienThiCacLoaiHinh\obj\Debug\netcoreapp2.1\BT_HienThiCacLoaiHinh.csprojAssemblyReference.cache

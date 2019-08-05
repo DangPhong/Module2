@@ -1,0 +1,11 @@
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\bin\Debug\netcoreapp2.1\TH_XayDungLopHCN.deps.json
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\bin\Debug\netcoreapp2.1\TH_XayDungLopHCN.runtimeconfig.json
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\bin\Debug\netcoreapp2.1\TH_XayDungLopHCN.runtimeconfig.dev.json
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\bin\Debug\netcoreapp2.1\TH_XayDungLopHCN.dll
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\bin\Debug\netcoreapp2.1\TH_XayDungLopHCN.pdb
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.csprojAssemblyReference.cache
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.csproj.CoreCompileInputs.cache
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.AssemblyInfoInputs.cache
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.AssemblyInfo.cs
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.dll
+D:\C-_Module2\03_Class_Object\TH_XayDungLopHCN\TH_XayDungLopHCN\obj\Debug\netcoreapp2.1\TH_XayDungLopHCN.pdb
