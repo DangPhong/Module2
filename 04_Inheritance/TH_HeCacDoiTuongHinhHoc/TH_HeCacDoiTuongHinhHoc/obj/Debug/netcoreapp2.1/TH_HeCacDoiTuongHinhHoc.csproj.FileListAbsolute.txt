@@ -9,3 +9,14 @@ D:\C-_Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj
 D:\C-_Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.AssemblyInfo.cs
 D:\C-_Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.dll
 D:\C-_Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.pdb
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\bin\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.deps.json
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\bin\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.runtimeconfig.json
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\bin\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.runtimeconfig.dev.json
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\bin\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.dll
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\bin\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.pdb
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.csprojAssemblyReference.cache
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.AssemblyInfoInputs.cache
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.AssemblyInfo.cs
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.dll
+D:\Module2\04_Inheritance\TH_HeCacDoiTuongHinhHoc\TH_HeCacDoiTuongHinhHoc\obj\Debug\netcoreapp2.1\TH_HeCacDoiTuongHinhHoc.pdb

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-_Module2\\01_CSharp\\TH_KTSoNgTo\\TH_KTSoNgTo.csproj",
+      "projectUniqueName": "D:\\Module2\\01_CSharp\\TH_KTSoNgTo\\TH_KTSoNgTo.csproj",
       "projectName": "TH_KTSoNgTo",
-      "projectPath": "D:\\C-_Module2\\01_CSharp\\TH_KTSoNgTo\\TH_KTSoNgTo.csproj",
+      "projectPath": "D:\\Module2\\01_CSharp\\TH_KTSoNgTo\\TH_KTSoNgTo.csproj",
       "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-      "outputPath": "D:\\C-_Module2\\01_CSharp\\TH_KTSoNgTo\\obj\\",
+      "outputPath": "D:\\Module2\\01_CSharp\\TH_KTSoNgTo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-_Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj": {}
+    "D:\\Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj": {}
   },
   "projects": {
-    "D:\\C-_Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj": {
+    "D:\\Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-_Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj",
+        "projectUniqueName": "D:\\Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj",
         "projectName": "TH_KTNamNhuan",
-        "projectPath": "D:\\C-_Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj",
+        "projectPath": "D:\\Module2\\01_CSharp\\TH_KTNamNhuan\\TH_KTNamNhuan.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\C-_Module2\\01_CSharp\\TH_KTNamNhuan\\obj\\",
+        "outputPath": "D:\\Module2\\01_CSharp\\TH_KTNamNhuan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

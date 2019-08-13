@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-_Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj": {}
+    "D:\\Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj": {}
   },
   "projects": {
-    "D:\\C-_Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj": {
+    "D:\\Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-_Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj",
+        "projectUniqueName": "D:\\Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj",
         "projectName": "BT_HienThiCacLoaiHinh",
-        "projectPath": "D:\\C-_Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj",
+        "projectPath": "D:\\Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\BT_HienThiCacLoaiHinh.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\C-_Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\obj\\",
+        "outputPath": "D:\\Module2\\01_CSharp\\BT_HienThiCacLoaiHinh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

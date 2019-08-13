@@ -1,0 +1,11 @@
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\bin\Debug\netcoreapp2.1\FishClass.deps.json
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\bin\Debug\netcoreapp2.1\FishClass.runtimeconfig.json
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\bin\Debug\netcoreapp2.1\FishClass.runtimeconfig.dev.json
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\bin\Debug\netcoreapp2.1\FishClass.dll
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\bin\Debug\netcoreapp2.1\FishClass.pdb
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.csprojAssemblyReference.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.csproj.CoreCompileInputs.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.AssemblyInfoInputs.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.AssemblyInfo.cs
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.dll
+D:\Module2\05_AdvancedObjectOrientedDesign\FishClass\obj\Debug\netcoreapp2.1\FishClass.pdb

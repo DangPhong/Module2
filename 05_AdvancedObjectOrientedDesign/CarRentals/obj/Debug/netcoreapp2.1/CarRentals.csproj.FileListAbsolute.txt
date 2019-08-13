@@ -1,0 +1,11 @@
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\bin\Debug\netcoreapp2.1\CarRentals.deps.json
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\bin\Debug\netcoreapp2.1\CarRentals.runtimeconfig.json
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\bin\Debug\netcoreapp2.1\CarRentals.runtimeconfig.dev.json
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\bin\Debug\netcoreapp2.1\CarRentals.dll
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\bin\Debug\netcoreapp2.1\CarRentals.pdb
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.csprojAssemblyReference.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.csproj.CoreCompileInputs.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.AssemblyInfoInputs.cache
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.AssemblyInfo.cs
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.dll
+D:\Module2\05_AdvancedObjectOrientedDesign\CarRentals\obj\Debug\netcoreapp2.1\CarRentals.pdb
